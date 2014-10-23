@@ -1,0 +1,13 @@
+###算法集合
+>
+>1.[假币问题](https://github.com/ranlei/Set-of-algorithms/blob/master/fakecoin.c)
+>
+>2.[fibonacci](https://github.com/ranlei/Set-of-algorithms/blob/master/fibonacci.c)
+>
+>3.[堆排序](https://github.com/ranlei/Set-of-algorithms/blob/master/heapsort.c)
+>
+>4.[背包问题](https://github.com/ranlei/Set-of-algorithms/blob/master/knapsack.c)
+>
+>5.[矩阵相乘](https://github.com/ranlei/Set-of-algorithms/blob/master/matrix.c)
+>
+>6.[快速排序](https://github.com/ranlei/Set-of-algorithms/blob/master/quicksort.c)
